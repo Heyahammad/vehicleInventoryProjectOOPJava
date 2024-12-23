@@ -1,0 +1,41 @@
+Reg No: 134,, Brand: Suzuki,, Model: S150,, Color: Black,, Status: Available,, Dom: Sep 17, 2021,, Condition: New,, CC: 160
+Reg No: 134,, Brand: Suzuki,, Model: S150,, Color: Black,, Status: Available,, Dom: Sep 17, 2021,, Condition: New,, CC: 160
+Reg No: 245,, Brand: Yamaha,, Model: FZ25,, Color: Blue,, Status: Rented,, Dom: Aug 10, 2020,, Condition: Like New,, CC: 250
+Reg No: 356,, Brand: Honda,, Model: CB300,, Color: Red,, Status: Available,, Dom: Jul 8, 2022,, Condition: New,, CC: 300
+Reg No: 467,, Brand: Royal Enfield,, Model: Classic 350,, Color: Green,, Status: Available,, Dom: May 20, 2021,, Condition: Like New,, CC: 350
+Reg No: 578,, Brand: KTM,, Model: Duke 200,, Color: Orange,, Status: Rented,, Dom: Oct 11, 2019,, Condition: Old,, CC: 200
+Reg No: 689,, Brand: Bajaj,, Model: Pulsar 220F,, Color: Black,, Status: Available,, Dom: Nov 25, 2023,, Condition: New,, CC: 220
+Reg No: 791,, Brand: TVS,, Model: Apache RTR 160,, Color: White,, Status: Rented,, Dom: Jan 15, 2020,, Condition: Old,, CC: 160
+Reg No: 812,, Brand: Hero,, Model: Xpulse 200,, Color: Red,, Status: Available,, Dom: Jun 18, 2022,, Condition: Like New,, CC: 200
+Reg No: 923,, Brand: Kawasaki,, Model: Ninja 300,, Color: Green,, Status: Rented,, Dom: Mar 30, 2021,, Condition: Like New,, CC: 300
+Reg No: 1034,, Brand: Ducati,, Model: Scrambler 800,, Color: Yellow,, Status: Available,, Dom: Sep 5, 2023,, Condition: New,, CC: 800
+Reg No: 1145,, Brand: Suzuki,, Model: Gixxer 250,, Color: Black,, Status: Rented,, Dom: Apr 19, 2020,, Condition: Old,, CC: 250
+Reg No: 1256,, Brand: Triumph,, Model: Street Triple,, Color: Blue,, Status: Available,, Dom: Dec 22, 2022,, Condition: Like New,, CC: 765
+Reg No: 1367,, Brand: Yamaha,, Model: R15,, Color: Red,, Status: Available,, Dom: May 14, 2021,, Condition: New,, CC: 155
+Reg No: 1478,, Brand: KTM,, Model: RC 390,, Color: Orange,, Status: Rented,, Dom: Jul 26, 2020,, Condition: Old,, CC: 373
+Reg No: 1589,, Brand: Honda,, Model: Hornet 160R,, Color: Black,, Status: Available,, Dom: Oct 9, 2019,, Condition: Old,, CC: 162
+Reg No: 1690,, Brand: Bajaj,, Model: Dominar 400,, Color: Green,, Status: Available,, Dom: Aug 30, 2023,, Condition: New,, CC: 373
+Reg No: 1791,, Brand: TVS,, Model: Ntorq 125,, Color: Grey,, Status: Rented,, Dom: Feb 5, 2022,, Condition: Like New,, CC: 125
+Reg No: 1902,, Brand: Kawasaki,, Model: Z650,, Color: White,, Status: Available,, Dom: Nov 12, 2021,, Condition: New,, CC: 649
+Reg No: 2013,, Brand: Suzuki,, Model: Hayabusa 1300,, Color: Black,, Status: Rented,, Dom: Mar 22, 2020,, Condition: Old,, CC: 1340
+Reg No: 2124,, Brand: Royal Enfield,, Model: Himalayan 411,, Color: White,, Status: Available,, Dom: Jun 17, 2023,, Condition: New,, CC: 411
+Reg No: 2235,, Brand: Yamaha,, Model: MT-15,, Color: Black,, Status: Available,, Dom: Apr 9, 2022,, Condition: Like New,, CC: 155
+Reg No: 2346,, Brand: KTM,, Model: Duke 390,, Color: Orange,, Status: Rented,, Dom: Jan 14, 2021,, Condition: Old,, CC: 373
+Reg No: 2457,, Brand: Honda,, Model: CB500X,, Color: Green,, Status: Available,, Dom: Oct 2, 2023,, Condition: New,, CC: 471
+Reg No: 2568,, Brand: Suzuki,, Model: GSX250R,, Color: Blue,, Status: Rented,, Dom: Feb 19, 2022,, Condition: Like New,, CC: 248
+Reg No: 2679,, Brand: Hero,, Model: Splendor Plus,, Color: Red,, Status: Available,, Dom: Dec 12, 2020,, Condition: Old,, CC: 97
+Reg No: 2780,, Brand: Royal Enfield,, Model: Meteor 350,, Color: Blue,, Status: Rented,, Dom: Jun 1, 2022,, Condition: Like New,, CC: 350
+Reg No: 2891,, Brand: TVS,, Model: Jupiter 110,, Color: Grey,, Status: Available,, Dom: Nov 18, 2021,, Condition: New,, CC: 110
+Reg No: 2902,, Brand: Bajaj,, Model: Avenger 220,, Color: Black,, Status: Rented,, Dom: Aug 23, 2020,, Condition: Old,, CC: 220
+Reg No: 3013,, Brand: Kawasaki,, Model: Vulcan S,, Color: White,, Status: Available,, Dom: Sep 7, 2023,, Condition: New,, CC: 649
+Reg No: 3124,, Brand: Triumph,, Model: Tiger 800,, Color: Green,, Status: Available,, Dom: Jul 30, 2022,, Condition: Like New,, CC: 800
+Reg No: 3235,, Brand: Ducati,, Model: Panigale V2,, Color: Red,, Status: Rented,, Dom: Oct 15, 2021,, Condition: Old,, CC: 955
+Reg No: 3346,, Brand: Honda,, Model: CBR650R,, Color: Black,, Status: Available,, Dom: Dec 5, 2023,, Condition: New,, CC: 649
+Reg No: 3457,, Brand: Suzuki,, Model: Intruder 150,, Color: Grey,, Status: Available,, Dom: Jan 19, 2022,, Condition: Like New,, CC: 155
+Reg No: 3568,, Brand: KTM,, Model: Adventure 250,, Color: Orange,, Status: Rented,, Dom: Apr 21, 2021,, Condition: Like New,, CC: 248
+Reg No: 3679,, Brand: Yamaha,, Model: FZ16,, Color: Red,, Status: Available,, Dom: Jun 11, 2020,, Condition: Old,, CC: 153
+Reg No: 3780,, Brand: Hero,, Model: Glamour 125,, Color: Black,, Status: Rented,, Dom: Jul 4, 2023,, Condition: New,, CC: 125
+Reg No: 3891,, Brand: Royal Enfield,, Model: Thunderbird 350,, Color: Blue,, Status: Available,, Dom: May 8, 2019,, Condition: Too Old,, CC: 346
+Reg No: 3902,, Brand: Honda,, Model: XBlade 160,, Color: White,, Status: Available,, Dom: Nov 28, 2022,, Condition: Like New,, CC: 162
+Reg No: 4013,, Brand: Bajaj,, Model: Pulsar NS200,, Color: Black,, Status: Rented,, Dom: Sep 1, 2021,, Condition: Like New,, CC: 199
+Reg No: 4124,, Brand: TVS,, Model: Apache RR 310,, Color: Red,, Status: Available,, Dom: Mar 15, 2023,, Condition: New,, CC: 312

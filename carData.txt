@@ -1,0 +1,41 @@
+Reg No: 123,, Brand: Ford,, Model: F150,, Color: Red,, Status: Available,, Dom: Sep 30, 2010,, Condition: Old
+Reg No: 123,, Brand: Audi,, Model: A12,, Color: Black,, Status: Rented,, Dom: Sep 1, 2024,, Condition: New
+Reg No: 456,, Brand: Toyota,, Model: Camry,, Color: White,, Status: Available,, Dom: Aug 15, 2023,, Condition: Like New
+Reg No: 789,, Brand: BMW,, Model: X5,, Color: Blue,, Status: Rented,, Dom: Jul 20, 2022,, Condition: New
+Reg No: 321,, Brand: Honda,, Model: Civic,, Color: Red,, Status: Available,, Dom: Sep 5, 2021,, Condition: Old
+Reg No: 654,, Brand: Ford,, Model: F150,, Color: Silver,, Status: Rented,, Dom: Jun 30, 2020,, Condition: Too Old
+Reg No: 987,, Brand: Mercedes,, Model: C300,, Color: Black,, Status: Available,, Dom: May 10, 2024,, Condition: New
+Reg No: 852,, Brand: Hyundai,, Model: Elantra,, Color: Grey,, Status: Rented,, Dom: Dec 18, 2022,, Condition: Like New
+Reg No: 963,, Brand: Tesla,, Model: Model 3,, Color: White,, Status: Available,, Dom: Nov 23, 2020,, Condition: Old
+Reg No: 147,, Brand: Chevrolet,, Model: Malibu,, Color: Black,, Status: Available,, Dom: Feb 28, 2022,, Condition: Like New
+Reg No: 258,, Brand: Nissan,, Model: Altima,, Color: Blue,, Status: Rented,, Dom: Mar 15, 2019,, Condition: Too Old
+Reg No: 369,, Brand: Volkswagen,, Model: Jetta,, Color: Green,, Status: Available,, Dom: Oct 5, 2023,, Condition: New
+Reg No: 741,, Brand: Kia,, Model: Seltos,, Color: White,, Status: Available,, Dom: May 25, 2021,, Condition: New
+Reg No: 852,, Brand: Jeep,, Model: Compass,, Color: Red,, Status: Rented,, Dom: Jan 19, 2020,, Condition: Old
+Reg No: 963,, Brand: Subaru,, Model: Forester,, Color: Grey,, Status: Available,, Dom: Mar 10, 2022,, Condition: Like New
+Reg No: 147,, Brand: Dodge,, Model: Charger,, Color: Black,, Status: Rented,, Dom: Feb 14, 2023,, Condition: New
+Reg No: 258,, Brand: Lexus,, Model: RX350,, Color: Blue,, Status: Available,, Dom: Apr 6, 2023,, Condition: Like New
+Reg No: 369,, Brand: Volvo,, Model: XC90,, Color: Silver,, Status: Available,, Dom: Jun 20, 2020,, Condition: Old
+Reg No: 741,, Brand: Mazda,, Model: CX-5,, Color: Red,, Status: Rented,, Dom: Jan 1, 2021,, Condition: Like New
+Reg No: 852,, Brand: Infiniti,, Model: QX60,, Color: White,, Status: Available,, Dom: Jul 12, 2019,, Condition: Too Old
+Reg No: 963,, Brand: Cadillac,, Model: XT5,, Color: Black,, Status: Rented,, Dom: Aug 8, 2022,, Condition: New
+Reg No: 147,, Brand: Porsche,, Model: Cayenne,, Color: Blue,, Status: Available,, Dom: May 22, 2023,, Condition: Like New
+Reg No: 258,, Brand: Acura,, Model: MDX,, Color: Grey,, Status: Available,, Dom: Apr 19, 2021,, Condition: Like New
+Reg No: 369,, Brand: Alfa Romeo,, Model: Stelvio,, Color: Green,, Status: Rented,, Dom: Nov 9, 2020,, Condition: Old
+Reg No: 741,, Brand: Lincoln,, Model: Navigator,, Color: Black,, Status: Available,, Dom: Dec 25, 2018,, Condition: Too Old
+Reg No: 852,, Brand: Land Rover,, Model: Defender,, Color: White,, Status: Rented,, Dom: Jul 30, 2024,, Condition: New
+Reg No: 963,, Brand: Jaguar,, Model: F-Pace,, Color: Red,, Status: Available,, Dom: Jan 15, 2022,, Condition: Like New
+Reg No: 147,, Brand: GMC,, Model: Yukon,, Color: Blue,, Status: Available,, Dom: Sep 18, 2020,, Condition: Old
+Reg No: 258,, Brand: Mitsubishi,, Model: Outlander,, Color: Grey,, Status: Rented,, Dom: Feb 22, 2019,, Condition: Too Old
+Reg No: 369,, Brand: Chrysler,, Model: Pacifica,, Color: Silver,, Status: Available,, Dom: Jul 3, 2021,, Condition: Like New
+Reg No: 741,, Brand: Peugeot,, Model: 3008,, Color: Green,, Status: Available,, Dom: Oct 27, 2023,, Condition: New
+Reg No: 741,, Brand: Peugeot,, Model: 3008,, Color: Green,, Status: Available,, Dom: Oct 27, 2023,, Condition: New
+Reg No: 852,, Brand: Ford,, Model: Mustang,, Color: Red,, Status: Rented,, Dom: May 12, 2022,, Condition: Like New
+Reg No: 963,, Brand: Toyota,, Model: Corolla,, Color: Silver,, Status: Available,, Dom: Aug 5, 2021,, Condition: Old
+Reg No: 147,, Brand: BMW,, Model: X7,, Color: Black,, Status: Available,, Dom: Jan 18, 2024,, Condition: New
+Reg No: 258,, Brand: Audi,, Model: Q5,, Color: Blue,, Status: Rented,, Dom: Jul 3, 2020,, Condition: Old
+Reg No: 369,, Brand: Mercedes-Benz,, Model: E-Class,, Color: White,, Status: Available,, Dom: Feb 22, 2023,, Condition: Like New
+Reg No: 741,, Brand: Honda,, Model: Accord,, Color: Grey,, Status: Rented,, Dom: Nov 30, 2021,, Condition: Old
+Reg No: 852,, Brand: Nissan,, Model: Altima,, Color: Blue,, Status: Available,, Dom: Apr 19, 2022,, Condition: Like New
+Reg No: 963,, Brand: Lexus,, Model: RX350,, Color: Black,, Status: Rented,, Dom: Jun 14, 2020,, Condition: Old
+Reg No: 147,, Brand: Volkswagen,, Model: Tiguan,, Color: Green,, Status: Available,, Dom: Sep 9, 2023,, Condition: New
